@@ -1,0 +1,22 @@
+.login-container {
+  margin-top: 10%;
+}
+
+.quote-input {
+  outline: none;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  -webkit-box-shadow: none !important;
+  box-shadow: none;
+}
+
+.quote-input:focus {
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.btn-default {
+  border-radius: 0;
+}
