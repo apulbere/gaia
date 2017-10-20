@@ -1,0 +1,8 @@
+<div class="col-md-6 col-md-offset-3">
+    <blockquote *ngFor="let quote of quotes">
+      <p>{{quote.text}}</p>
+      <footer>
+        <cite>{{quote.book}}, {{quote.author}}</cite>
+      </footer>
+    </blockquote>
+</div>
