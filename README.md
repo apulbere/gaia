@@ -9,4 +9,4 @@ URL: [apulbere.github.io/gaia](https://apulbere.github.io/gaia/)
 |---|---|
 | ulrich | 123456 |
 
-P.S. [keres](https://cerberus2-apulbere.rhcloud.com/) might be idling sometimes, but she's alive
+P.S. [keres](https://keres.herokuapp.com/) might be idling sometimes, but she's alive
